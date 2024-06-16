@@ -55,7 +55,7 @@ git clone <https://github.com/abhishekrajput-web/film-relic>
 <h2 style="margin-top:20px;font-size:20px">View full website</h2>
 
 <div>
- <img style="margin-top:20px" src="https://imgur.com/AskXo9W.jpg">
+ <img style="margin-top:20px" src="https://imgur.com/kvBpx9w.jpg">
 </div>
 
 
