@@ -15,10 +15,12 @@
 
 <h2 style="margin-top:20px"> View some separate sections of website</h2>
 <div>
-<img style="margin-top:20px" src="https://i.imgur.com/kdWA4Z8.jpg">
-<img style="margin-top:20px" src="https://i.imgur.com/tRvoLez.jpg">
-<img style="margin-top:20px" src="https://i.imgur.com/rKW5HgB.jpg">
-<img style="margin-top:40px" src="https://i.imgur.com/TYApTDZ.jpg">
+<img style="margin-top:20px" src="https://imgur.com/9HeqeOH.jpg">
+<img style="margin-top:20px" src="https://imgur.com/kR3m1PJ.jpg">
+<img style="margin-top:20px" src="https://imgur.com/h5HhgEZ.jpg">
+<img style="margin-top:40px" src="https://imgur.com/WK1j92r.jpg">
+<img style="margin-top:40px" src="https://imgur.com/AskXo9W.jpg">
+<img style="margin-top:40px" src="https://imgur.com/cotL7CT.jpg">
 </div>
  
  
@@ -53,10 +55,7 @@ git clone <https://github.com/abhishekrajput-web/film-relic>
 <h2 style="margin-top:20px;font-size:20px">View full website</h2>
 
 <div>
-<img style="margin-top:20px" src="https://i.imgur.com/kdWA4Z8.jpg">
-<img style="margin-top:20px" src="https://i.imgur.com/tRvoLez.jpg">
-<img style="margin-top:20px" src="https://i.imgur.com/rKW5HgB.jpg">
-<img style="margin-top:40px" src="https://i.imgur.com/TYApTDZ.jpg">
+ <img style="margin-top:20px" src="https://imgur.com/AskXo9W.jpg">
 </div>
 
 
