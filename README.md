@@ -36,7 +36,7 @@ This is a simple Vite application that fetches and displays details of a movies 
 - Fetches book details from the OMDB API.
 - Displays movie information, including title, author, description, images, etc.
 - Handles loading states and error messages gracefully.
-- Allows users to navigate back to the list of Movie.
+- Allows users to navigate back to the list of Movies.
 
 ## Installation
 
