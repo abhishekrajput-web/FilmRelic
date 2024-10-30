@@ -1,5 +1,5 @@
-# FILM RELIC (MOVIE APP)
-<h1 style="font-size:20px">Responsive movie app using react.js and tailwind css</h1>
+# Film Relic (Movie Application)
+<h1 style="font-size:20px">Responsive Movie App Using React.js and Tailwind Css</h1>
 <p><a href="https://films-relic.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
@@ -40,7 +40,7 @@ This is a simple Vite application that fetches and displays details of a movies 
 
 ## Features
 
-- Fetches book details from the OMDB API.
+- Fetches Movies details from the OMDB API.
 - Displays movie information, including title, author, description, images, etc.
 - Handles loading states and error messages gracefully.
 - Allows users to navigate back to the list of Movies.
