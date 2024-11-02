@@ -1,4 +1,4 @@
-# Film Relic (Movie Application)
+# Movie Application (Film Relic)
 <h1 style="font-size:20px">Responsive Movie App Using React.js and Tailwind Css</h1>
 <p><a href="https://films-relic.netlify.app/">View The Live Website Deployment </a></p>
 
