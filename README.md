@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/b0e40ca6-ea9b-42d4-bbcf-d866a9850731
  
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/film-relic.git">https://github.com/abhishekrajput-web/film-relic</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/FilmRelic.git">https://github.com/abhishekrajput-web/FilmRelic</a></p>
 
 # Movie Detail App
 
