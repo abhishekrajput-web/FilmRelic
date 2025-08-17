@@ -69,9 +69,9 @@ const Home = () => {
 
              
         <div className='container mx-auto px-4 flex justify-between items-center'>
-              <button className='px-3 py-2 sm:px-4 sm:py-2 text-base sm:text-xl bg-black hover:opacity-80 text-white rounded-md' onClick={() => setPage((prevState) => prevState + 1)} title='next apge of movies'>page - {page}</button>
+              <button className='px-3 py-2 sm:px-4 sm:py-2 text-base sm:text-xl bg-black hover:opacity-80 text-white rounded-md' onClick={() => setPage((prevState) => prevState + 1)} title='next apge of movies'>pages - {page}</button>
          
-              <button className="px-3 py-2 sm:px-4 sm:py-2 text-base sm:text-xl bg-black hover:opacity-90 text-white rounded-md" onClick={() => setPage (page - 1)} disabled={page === 1 } title='previous page of movies'>Prev Page</button>
+              <button className="px-3 py-2 sm:px-4 sm:py-2 text-base sm:text-xl bg-black hover:opacity-90 text-white rounded-md" onClick={() => setPage (page - 1)} disabled={page === 1 } title='previous page of movies'>Prev Pages</button>
         </div>
 
 
